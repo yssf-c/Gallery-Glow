@@ -109,3 +109,5 @@ Carthage/Build
 
 # Browser automation evidence
 .playwright-mcp/
+.playwright-cli/
+/output/playwright/

@@ -73,8 +73,8 @@ figcaption span:first-child { text-transform: uppercase; letter-spacing: .09em; 
 .pill { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 7px 7px 7px 23px; border-radius: 99px; background: var(--surface); font-size: 15px; font-weight: 600; text-decoration: none; transition: box-shadow .2s ease; }
 .pill:focus-visible { border-radius: 99px; }
 .pill:hover { box-shadow: 0 0 0 1px var(--rule), 0 6px 18px var(--shadow); }
-.arrow { display: grid; place-items: center; width: 40px; height: 40px; background: var(--gold); color: #131311; border-radius: 50%; font: 26px/1 "Helvetica Neue", Helvetica, sans-serif; }
-.release-note { margin-top: 13px; color: var(--secondary); font-size: 11px; }
+.arrow { display: grid; place-items: center; width: 40px; height: 40px; flex-shrink: 0; background: var(--gold); color: #131311; border-radius: 50%; font: 26px/1 "Helvetica Neue", Helvetica, sans-serif; }
+.download-note { margin-top: 13px; color: var(--secondary); font-size: 11px; line-height: 1.5; }
 .details { display: grid; grid-template-columns: 1fr 1fr auto; gap: 32px; align-items: center; padding: 30px 0; margin-top: 34px; border-top: 1px solid var(--rule); }
 .details h2 { margin-bottom: 7px; font-size: 17px; font-weight: 600; letter-spacing: -.02em; }
 .details p { color: var(--secondary); font-size: 13px; line-height: 1.7; }
@@ -161,6 +161,8 @@ html { scroll-behavior: smooth; }
 .lifetime-story > p:not(.eyebrow) { margin-inline: auto; max-width: 780px; }
 .lifetime-notes { display: flex; justify-content: center; flex-wrap: wrap; gap: 12px 28px; margin-top: 30px; font-size: 12px; color: var(--secondary); }
 .lifetime-notes span::before { content: '✓'; margin-right: 8px; color: var(--ink); }
+.lifetime-story .call-to-action { width: 100%; max-width: 340px; margin-inline: auto; }
+.lifetime-story .pill { background: var(--paper); }
 .text-link { display: inline-flex; align-items: center; gap: 22px; min-height: 44px; margin-top: 25px; font-size: 14px; }
 @media (max-width: 760px) {
   .inside, .collection-edit, .ambient-story { padding-block: 44px; }

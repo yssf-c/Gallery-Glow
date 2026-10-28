@@ -2,7 +2,7 @@
 
 Classic art and ambient scenes for Apple TV. A space for art. A moment for you.
 
-[Website](https://yssf-c.github.io/Gallery-Glow/) · [Support](https://yssf-c.github.io/Gallery-Glow/support.html) · [Contact](https://youssefchouay.com) · [Privacy](https://yssf-c.github.io/Gallery-Glow/privacy.html)
+[App Store](https://apps.apple.com/app/id6779811163) · [Website](https://yssf-c.github.io/Gallery-Glow/) · [Support](https://yssf-c.github.io/Gallery-Glow/support.html) · [Contact](https://youssefchouay.com) · [Privacy](https://yssf-c.github.io/Gallery-Glow/privacy.html)
 
 ![Gallery Glow: great art, right at home](docs/assets/gallery-glow-social.jpg)
 
