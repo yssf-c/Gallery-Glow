@@ -4,6 +4,11 @@ Release package prepared October 14, 2026. This document is the source for the
 updated listing; publishing the website or uploading a TestFlight build does not
 submit the app for App Review.
 
+Gallery Glow 1.0 is now available on the
+[App Store](https://apps.apple.com/app/id6779811163). The public listing was
+verified October 28, 2026; the submission instructions below remain as release
+reference material.
+
 ## URLs and contact
 
 | App Store Connect field | Value |
